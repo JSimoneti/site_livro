@@ -1,0 +1,39 @@
+
+#container{
+  width: 60vw;
+  height: 100vh;
+}
+
+#controller{
+  width: 40vw;
+  height: 100vh;
+}
+
+#button_zone{
+  width: 30vw;
+  height: 80vh;
+  background: #ddd;
+  border-radius: 1vw;
+  margin-left: 5vw;
+  margin-top: 5vw;
+}
+
+#screen{
+  width: 55vw;
+  height: 80vh;
+  background: #ddd;
+  border-radius: 1vw;
+  float: right;
+  margin-top: 5vw;
+  background-size: cover;
+}
+
+#screen_title{
+  width: 45vw;
+  height: 10vh;
+  color: #fff;
+  font-size: 3vh;
+  background: #ccc;
+  border-radius: 1vw;
+}
+
